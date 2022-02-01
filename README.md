@@ -5,7 +5,8 @@
 <p align="center"><a href="mailto:chaudharikunals02@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="c"/></a>
 <a href="https://www.linkedin.com/in/kunal-chaudhari-010102/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
 <a href="https://instagram.com/kunal.chaudhari.1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="c"/></a>
-<a href="https://github.com/KunalC-1" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="c"/></a>
+<a href="https://leetcode.com/chaudharikunals02/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="c"/></a>
+<a href="https://www.hackerrank.com/Kunal_Chaudhari" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="c"/></a>
 </p>
 <hr>
 <h2 align="left">🛠️ Skills :</h2>
