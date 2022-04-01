@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Chaudhari <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-male-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/></h1>
-
-<h3 align="center">Studying Computer Engineering at<br> College of Engineering, Pune</h3>
+<h1 align="center">Hi 👋, I'm Kunal Chaudhari <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-coder-computer-science-flaticons-lineal-color-flat-icons.png"/></h1>
 
 <p align="center"><a href="mailto:chaudharikunals02@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="c"/></a>
 <a href="https://www.linkedin.com/in/kunal-chaudhari-010102/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="c"/></a>
@@ -28,9 +26,7 @@
 </p>
 
 <h2 align="left">📈 Stats :</h2><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalC-1&theme=dracula&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="KunalC-1" /></a> </p><br>
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=KunalC-1&show_icons=true&locale=en&count_private=true&theme=radical" width="470" alt="KunalC-1" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalC-1&layout=compact&exclude_repo=PPL_Assignments&theme=radical" alt="KunalC-1" />
 </p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=KunalC-1&theme=radical" alt="KunalC-1" /></p>
